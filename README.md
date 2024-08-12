@@ -1,5 +1,5 @@
 # FFT and Soil Temperatures
-R Shiny script to model sub-surface soil temperatures using a simple heat-transfer model coupled with FFT.
+R Marksown Shiny script to model sub-surface soil temperatures using a simple heat-transfer model coupled with FFT.
 
 This work is a clean-up of a workshop I presented on using R in ecological modeling.  It describes FFT and then uses it to model soil temperatures at depth. This demonstration is based on work from:
 
