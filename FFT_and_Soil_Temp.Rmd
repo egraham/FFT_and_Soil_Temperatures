@@ -1811,9 +1811,7 @@ On average, we predicted the sub-surface temperature on a new set of days, using
 
 # References {#refs}
 
-* Bell JE, Palecki MA, Baker CB, Collins WG, Lawrimore JH, Leeper RD, Hall ME,
-Kochendorfer J, Meyers TP, Wilson T, and Diamond. 2013. U.S. Climate Reference Network
-soil moisture and temperature observations. Journal of Hydrometeorology 14, 977-988. doi: 10.1175/JHM-D-12-0146.1
+* Bell JE, Palecki MA, Baker CB, Collins WG, Lawrimore JH, Leeper RD, Hall ME, Kochendorfer J, Meyers TP, Wilson T, and Diamond. 2013. U.S. Climate Reference Network soil moisture and temperature observations. Journal of Hydrometeorology 14, 977-988. doi: 10.1175/JHM-D-12-0146.1
 
 * Cleveland WS. 1979. Robust Locally Weighted Regression And Smoothing Scatterplots. Journal Of The American Statistical Association, 74 (368), 829–836.
 
